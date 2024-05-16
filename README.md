@@ -1,4 +1,3 @@
-https://img.shields.io/badge/Discord-Discord?style=for-the-badge&link=https%3A%2F%2Fdiscord.gg%2FdKadpPZPTy
 
 ## Ghost Spectator
 An SCP:SL Exiled plugin that turns users into ghosts when they die. Ghosts cannot be seen by alive players (including SCPs), cannot die, and can noclip.
@@ -42,3 +41,6 @@ What ghosts can interact with is not shown on this list but is configurable and 
 - `*` - For all players
 - `%[role]` - For one role type eg. `%classd` for all Class-D.
 - `*[zone]` - For a zone (eg. `*light`, `*entrance`, etc)
+
+SCP SL Server:
+https://discord.gg/dKadpPZPTy
