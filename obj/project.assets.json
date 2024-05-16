@@ -1,0 +1,455 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "EXILED/8.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "EXILED/8.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "EXILED/8.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "EXILED/8.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "EXILED/8.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Assembly-CSharp-Publicized.dll": {},
+          "lib/net48/CommandSystem.Core.dll": {},
+          "lib/net48/Exiled.API.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CreditTags.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomItems.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.CustomRoles.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Events.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Loader.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Exiled.Permissions.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/NorthwoodLib.dll": {},
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "EXILED/8.8.1": {
+      "sha512": "iNnBVMDoEIcUvIz6rf1Sz4C5Wcg05SGlc9RsrIKb8wadJkb6BxZeMznVHQ/jioTsY5yy1jslMfeVuH5Cet5X9w==",
+      "type": "package",
+      "path": "exiled/8.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "exiled.8.8.1.nupkg.sha512",
+        "exiled.nuspec",
+        "images/Exiled_Icon.jpg",
+        "lib/net48/Assembly-CSharp-Publicized.dll",
+        "lib/net48/CommandSystem.Core.dll",
+        "lib/net48/Exiled.API.dll",
+        "lib/net48/Exiled.API.xml",
+        "lib/net48/Exiled.CreditTags.dll",
+        "lib/net48/Exiled.CreditTags.xml",
+        "lib/net48/Exiled.CustomItems.dll",
+        "lib/net48/Exiled.CustomItems.xml",
+        "lib/net48/Exiled.CustomRoles.dll",
+        "lib/net48/Exiled.CustomRoles.xml",
+        "lib/net48/Exiled.Events.dll",
+        "lib/net48/Exiled.Events.xml",
+        "lib/net48/Exiled.Loader.dll",
+        "lib/net48/Exiled.Loader.xml",
+        "lib/net48/Exiled.Permissions.dll",
+        "lib/net48/Exiled.Permissions.xml",
+        "lib/net48/NorthwoodLib.dll",
+        "lib/net48/PluginAPI.dll",
+        "lib/net48/YamlDotNet.dll"
+      ]
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "sha512": "Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "type": "package",
+      "path": "stylecop.analyzers/1.1.118",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
+        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
+        "stylecop.analyzers.1.1.118.nupkg.sha512",
+        "stylecop.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "EXILED >= 8.8.1",
+      "StyleCop.Analyzers >= 1.1.118"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mrbag\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Mrbag\\Downloads\\GhostSpectator-master\\GhostSpectator-master\\GhostSpectator\\GhostSpectator.csproj",
+      "projectName": "SCPSLGhostSpectator",
+      "projectPath": "C:\\Users\\Mrbag\\Downloads\\GhostSpectator-master\\GhostSpectator-master\\GhostSpectator\\GhostSpectator.csproj",
+      "packagesPath": "C:\\Users\\Mrbag\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mrbag\\Downloads\\GhostSpectator-master\\GhostSpectator-master\\GhostSpectator\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Mrbag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "EXILED": {
+            "target": "Package",
+            "version": "[8.8.1, )"
+          },
+          "StyleCop.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.1.118, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

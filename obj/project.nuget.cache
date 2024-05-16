@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCR8fzQ8077OY6LlrAXWlKrCxwqV3E5eYrkq0HKd2Z3T+8vXfty+0wlsJ0d8Iry93ZylQR5w1KfK4Xf4DaKZ1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mrbag\\Downloads\\GhostSpectator-master\\GhostSpectator-master\\GhostSpectator\\GhostSpectator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mrbag\\.nuget\\packages\\exiled\\8.8.1\\exiled.8.8.1.nupkg.sha512",
+    "C:\\Users\\Mrbag\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
