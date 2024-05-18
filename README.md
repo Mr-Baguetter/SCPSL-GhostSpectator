@@ -4,7 +4,7 @@ https://github.com/Mr-Baguetter/SCPSL-GhostSpectator/assets/70399915/2ad56be1-b8
 ## Ghost Spectator
 An SCP:SL Exiled plugin that turns users into ghosts when they die. Ghosts cannot be seen by alive players (including SCPs), cannot die, and can noclip.
 
-Current Plugin Version: V1.0.0
+Current Plugin Version: V1.1.0
 
 ## REQUIREMENTS
 * Exiled: V8.8.1 or V8.9.0
