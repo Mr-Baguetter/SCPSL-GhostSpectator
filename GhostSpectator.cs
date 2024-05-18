@@ -185,6 +185,7 @@ namespace GhostSpectator
             Scp914Handler.ChangingKnobSetting -= Handler.GenericGhostDisallow;
 
             Exiled.Events.Handlers.Scp096.AddingTarget -= Handler.OnAddingTarget;
+            Exiled.Events.Handlers.Scp939.ValidatingVisibility -= handler.OnValidatingVisibility;
 
             // Unpatch
             Harmony.UnpatchAll(Harmony.Id);

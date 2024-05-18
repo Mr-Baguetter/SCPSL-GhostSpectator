@@ -12,6 +12,7 @@
     using Exiled.Events.EventArgs.Server;
     using Exiled.Events.Features;
     using Exiled.Permissions.Extensions;
+    using InventorySystem.Items.Usables.Scp1576;
     using MEC;
     using PlayerRoles;
     using PlayerRoles.PlayableScps.Scp049;
@@ -222,6 +223,7 @@
             if (API.IsGhost(ev.Target))
                 ev.IsAllowed = false;
         }
+
         public void OnValidatingVisibility(ValidatingVisibilityEventArgs ev)
         {
             if (API.IsGhost(ev.Target))
