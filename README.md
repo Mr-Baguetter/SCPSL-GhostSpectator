@@ -8,7 +8,7 @@ Current Plugin Version: V1.0.0
 
 ## REQUIREMENTS
 * Exiled: V8.8.1 or V8.9.0
-* SCP:SL Server: V13.4.2
+* SCP:SL Server: V13.4.2 or V13.5 Beta
 
 ## Config
 What ghosts can interact with is not shown on this list but is configurable and will be generated along with the rest of these settings.
