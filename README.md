@@ -2,13 +2,15 @@
 https://github.com/Mr-Baguetter/SCPSL-GhostSpectator/assets/70399915/2ad56be1-b80a-4c71-9190-03847355e96e
 
 ## Ghost Spectator
-An SCP:SL Exiled plugin that turns users into ghosts when they die. Ghosts cannot be seen by alive players (including SCPs), cannot die, and can noclip.
+An SCP:SL Exiled plugin that turns users into ghosts when they die. Ghosts cannot be seen by alive players (including SCPs), cannot die, and can noclip
+
+
+Original code is from https://github.com/Thundermaker300/GhostSpectator
 
 Current Plugin Version: V1.1.0
 
 ## REQUIREMENTS
-* Exiled: V8.8.1 or V8.9.0
-* SCP:SL Server: V13.4.2 or V13.5 Beta
+* Exiled: >= 8.8.1
 
 ## Config
 What ghosts can interact with is not shown on this list but is configurable and will be generated along with the rest of these settings.
@@ -43,6 +45,3 @@ What ghosts can interact with is not shown on this list but is configurable and 
 - `*` - For all players
 - `%[role]` - For one role type eg. `%classd` for all Class-D.
 - `*[zone]` - For a zone (eg. `*light`, `*entrance`, etc)
-
-SCP SL Server:
-https://discord.gg/dKadpPZPTy
